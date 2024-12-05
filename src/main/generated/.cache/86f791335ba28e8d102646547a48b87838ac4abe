@@ -1,0 +1,8 @@
+// 1.20.1	2024-10-27T11:26:08.4579652	submerged/Tags for minecraft:block
+ee3f2cadbbd22911369d3ff9d670fcb0d467e4e1 data\minecraft\tags\blocks\needs_stone_tool.json
+43938c3c6870009d8c5e6e2a5158788831a1dcc6 data\minecraft\tags\blocks\fence_gates.json
+f7e90848f7ef43ff366be2ab92244ac601a7e7f6 data\submerged\tags\blocks\gem_finder_eligible_blocks.json
+580e9a6ea201e95739c797566320f2d746cc0818 data\minecraft\tags\blocks\mineable\pickaxe.json
+3cecff04586f00706c41dacfe5bdc910b27360e1 data\minecraft\tags\blocks\fences.json
+a1eee9f8e727493a5cb2ae046798140883d9475c data\minecraft\tags\blocks\needs_iron_tool.json
+96878b67177e5b1afe8165be6a7ef15a9563b35b data\minecraft\tags\blocks\walls.json
